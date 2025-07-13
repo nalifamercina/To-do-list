@@ -50,6 +50,7 @@ git clone https://github.com/nalifamercina/To-do-list.git
 . Built with ❤️ by Nalifa Mercina
 
 📄 License
+
 This project is open source.
 
 

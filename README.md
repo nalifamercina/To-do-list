@@ -23,7 +23,7 @@ This project allows users to add, delete, and manage daily tasks with a clean an
 
 📂 Project Structure
 
-📁 to-do-list/
+to-do-list/
 
 ├── index.html
 

@@ -15,17 +15,20 @@ This project allows users to add, delete, and manage daily tasks with a clean an
 
 🛠️ Tech Stack
 
-HTML – Page structure
+. HTML – Page structure
 
-CSS – Styling and layout
+. CSS – Styling and layout
 
-JavaScript – Interactivity and local storage management
+. JavaScript – Interactivity and local storage management
 
 📂 Project Structure
 
 📁 to-do-list/
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 🧑‍💻 How to Use
